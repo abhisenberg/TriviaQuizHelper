@@ -60,5 +60,5 @@ the correct answer can be deduced.
 
 ![qh_7](https://user-images.githubusercontent.com/29260302/42408173-dbf77a24-81e5-11e8-80b0-8f89de2a2ae5.png)
 
-##Please Note
+## Please Note
 The app is far from perfect and still has many issues and bugs, which I haven't been able to work upon owing to the lack of time. If you are interested in contributing to this app, please contact, I will be happy to work alongside.
